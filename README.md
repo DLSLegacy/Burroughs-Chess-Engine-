@@ -1,4 +1,4 @@
-# Burroughs-Chess-Engine- Design Documentation 
+# BCE Design Documentation 
 
 I'm developing a chess engine to help build my understanding of the tactics & strategy of the game as well as to further deepen
 my knowledge of Machine Learning 
